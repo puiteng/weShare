@@ -1,0 +1,9 @@
+.Container {
+  background-color: blue;
+  width: 100px;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  flex-direction: row;
+}
